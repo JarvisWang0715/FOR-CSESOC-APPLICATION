@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1924" height="2159.391" viewBox="0 0 1924 2159.391">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.447" y1="0.508" x2="1.109" y2="0.977" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#85f093"/>
+      <stop offset="1" stop-color="#a0efaa"/>
+    </linearGradient>
+  </defs>
+  <g id="middle_background" data-name="middle background" transform="translate(0 -1226)">
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="1924" height="2147" transform="translate(0 1226)" fill="#ffb95e"/>
+    <path id="Green_wave" data-name="Green wave" d="M0,126.612S658.813-379.539,788.388-233.767,527.214-41.43,743.847,112.44C1256.418,433.265,1920,177.227,1920,177.227V303.391H0Z" transform="translate(0 3082)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

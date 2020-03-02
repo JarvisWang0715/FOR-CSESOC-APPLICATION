@@ -1,0 +1,75 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>備忘錄ヽ(●´∀`●)ﾉ</title>
+		<link rel="stylesheet" type="text/css" href="ncustyle.css">
+	</head>
+
+	<body>
+		<div id="header">
+			<h1>My Memo</h1>
+			<p>快來寫點東西~~~ ヽ(●´ε｀●)ノ</p>
+			<input id="myInput" type="text" placeholder="想記些什麼...">
+			<button id="addBtn" class="memoBtn">add</button>
+		</div>
+		<div>
+			<div id="waiting">
+				<div class="category">待辦事項</div>
+				<div>
+					<ul id="myWaiting">
+						<li>幫小明買早餐</li>
+						<li>完成微積分作業</li>
+						<li>讀計概 ch8</li>
+						<li>Keep going on!!!</li>
+					</ul>
+				</div>
+			</div>
+			
+			<div id="finished">
+				<div class="category">已完成</div>
+				<div>
+					<ul id="myFinished">
+						<li class='checked'>交學費 35000</li>
+						<li class='checked'>7-11 取貨</li>
+					</ul>
+				</div>
+			</div>
+			
+			<!--<button id="hide" class="memoBtn">Hide</button>
+			<button id="show" class="memoBtn">Show</button>-->
+			
+			<button id="HideAndShow" class="memoBtn">Hide Completed</button>
+        </div>
+        <img src="https://cdn.hk01.com/di/media/images/564720/org/7a5b31ccd89a2360794c1ef6bf54393f.jpg/0ws2YFTJcguqJ5hF1Hp3V8ELwZfAP_rMiLU2UYi1NlE?v=w1920" width="210px">
+	</body>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script type="text/javascript">
+	    $(document).ready(function(){
+			$("#addBtn").on('click', function(){
+				if($("#myInput").val()){
+					$("#myWaiting").append("<li>" + $('#myInput').val() + "</li>");
+					$('#myInput').val("");
+				}
+				else{
+					alert("EMPTY");
+				}
+			});
+			$("#myWaiting").on('click', 'li', function(){
+				$("#myFinished").append("<li class='checked'>" + $(this).text() + "</li>");
+				$(this).remove($(this).val());
+			})
+			$("#HideAndShow").on('click',function(){
+				$("#finished").toggle();
+		    	if($("#HideAndShow").text()==="Hide Completed")
+					$("#HideAndShow").text("Show Completed");
+		    	else
+					$("#HideAndShow").text("Hide Completed");
+		    	// $("#HideAndShow").text("Show Completed");	
+			})
+		
+	 
+
+		});
+	</script>
+</html>

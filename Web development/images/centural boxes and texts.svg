@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="354.665" height="122.278" viewBox="0 0 354.665 122.278">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.438" y1="-0.078" x2="1.21" y2="1.29" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f1f1f1"/>
+      <stop offset="1" stop-color="#797979" stop-opacity="0.631"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.639"/>
+    </linearGradient>
+  </defs>
+  <g id="centural_boxes_and_texts" data-name="centural boxes and texts" transform="translate(332.743 -382.18)">
+    <g id="Center_cubes" data-name="Center cubes" transform="translate(-332.743 382.18)">
+      <g id="center_cube" data-name="center cube" transform="translate(0 0)">
+        <path id="Path_7" data-name="Path 7" d="M1730.585,553.581l-59.573,29.646,58.954,31.284,56.472-31.284Z" transform="translate(-1671.012 -492.485)" fill="#d8d8d8"/>
+        <path id="Path_8" data-name="Path 8" d="M1911.951,645.526l-55.973,31.426,55.973,29.692Z" transform="translate(-1796.525 -615.948)" fill="#6e6e6e"/>
+        <path id="Path_6" data-name="Path 6" d="M1671.012,644.9v61.69l59.507,31.212V676.476Z" transform="translate(-1671.012 -615.52)" fill="#f1f1f1"/>
+        <path id="Path_4" data-name="Path 4" d="M1729.966,553.5l-58.954,29.672,58.954,31.885,56.472-31.885Z" transform="translate(-1671.012 -553.503)" fill="#fff"/>
+      </g>
+      <g id="left_center_cube" data-name="left center cube" transform="translate(0 85.28)">
+        <path id="Path_49" data-name="Path 49" d="M1671.012,644.9v17.1l16.492,8.651v-17Z" transform="translate(-1650.12 -644.896)" fill="url(#linear-gradient)"/>
+        <path id="Path_4-2" data-name="Path 4" d="M1687.351,553.5l-16.339,8.224,16.339,8.837L1703,561.726Z" transform="translate(-1671.012 -550.394)" fill="#fff"/>
+        <path id="Path_7-2" data-name="Path 7" d="M1687.523,553.581l-16.511,8.216,16.339,8.67L1703,561.8Z" transform="translate(-1671.012 -533.54)" fill="#d8d8d8"/>
+        <path id="Path_6-2" data-name="Path 6" d="M1671.012,644.9v17.1l16.492,8.651v-17Z" transform="translate(-1671.012 -633.647)" fill="#f1f1f1"/>
+        <path id="Path_8-2" data-name="Path 8" d="M1871.491,645.526l-15.513,8.71,15.513,8.229Z" transform="translate(-1839.501 -634.22)" fill="#6e6e6e"/>
+      </g>
+      <g id="upper_center_cube" data-name="upper center cube" transform="translate(41.785 7.39)">
+        <rect id="shadow" width="80.677" height="17.035" transform="translate(16.071 16.877)" fill="url(#linear-gradient-2)"/>
+        <path id="Path_4-3" data-name="Path 4" d="M1687.351,553.5l-16.339,8.224,16.339,8.837L1703,561.726Z" transform="translate(-1671.012 -553.503)" fill="#fff"/>
+        <path id="Path_7-3" data-name="Path 7" d="M1687.523,553.581l-16.511,8.216,16.339,8.67L1703,561.8Z" transform="translate(-1671.012 -536.648)" fill="#d8d8d8"/>
+        <path id="Path_6-3" data-name="Path 6" d="M1671.012,644.9v17.1l16.492,8.651v-17Z" transform="translate(-1671.012 -636.755)" fill="#f1f1f1"/>
+        <path id="Path_8-3" data-name="Path 8" d="M1871.491,645.526l-15.513,8.71,15.513,8.229Z" transform="translate(-1839.501 -637.329)" fill="#6e6e6e"/>
+      </g>
+    </g>
+    <g id="Inter_Env" data-name="Inter Env" transform="translate(-197.33 395)">
+      <g id="Group_3" data-name="Group 3" transform="translate(0 8.323)">
+        <path id="Path_51" data-name="Path 51" d="M5.357,13.642,18.4,0" transform="translate(-5.357)" fill="none" stroke="#e5b7ff" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_5" data-name="Line 5" x2="14.838" transform="translate(13.044)" fill="none" stroke="#e5b7ff" stroke-linecap="round" stroke-width="2"/>
+      </g>
+      <text id="Interactive_Environment" data-name="Interactive Environment" transform="translate(34.252 12)" fill="#fff" font-size="15" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.004em"><tspan x="0" y="0">Interactive Environment</tspan></text>
+    </g>
+    <g id="Machine_Learning" data-name="Machine Learning" transform="translate(-197.791 471.467)">
+      <text id="Machine_Learning-2" data-name="Machine Learning" transform="translate(34.252 18.18)" fill="#fff" font-size="15" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.004em"><tspan x="0" y="0">Machine Learning</tspan></text>
+      <path id="Path_51-2" data-name="Path 51" d="M5.357,0,18.4,13.642" transform="translate(-5.357)" fill="none" stroke="#b7c0ff" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_5-2" data-name="Line 5" x2="14.838" transform="translate(13.044 13.642)" fill="none" stroke="#b7c0ff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Computaional_Design" data-name="Computaional Design" transform="translate(-340.23 435.719)">
+      <text id="Computational_Design" data-name="Computational Design" transform="translate(178 13)" fill="#fff" font-size="15" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.004em"><tspan x="0" y="0">Computational Design</tspan></text>
+      <line id="Line_35" data-name="Line 35" x1="27.799" transform="translate(142.292 8.127)" fill="none" stroke="#ffe4b7" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

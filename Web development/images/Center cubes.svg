@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="431" height="380.426" viewBox="0 0 431 380.426">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.438" y1="-0.078" x2="1.21" y2="1.29" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f1f1f1"/>
+      <stop offset="1" stop-color="#797979" stop-opacity="0.631"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.639"/>
+    </linearGradient>
+  </defs>
+  <g id="Center_cubes" data-name="Center cubes" transform="translate(-780 -349.503)">
+    <g id="center_cube" data-name="center cube" transform="translate(-125.012 20)">
+      <path id="Path_7" data-name="Path 7" d="M1856.354,553.581l-185.342,92.235,183.415,97.329,175.693-97.329Z" transform="translate(-766 -34)" fill="#d8d8d8"/>
+      <path id="Path_8" data-name="Path 8" d="M2030.12,645.526,1855.978,743.3l174.142,92.378Z" transform="translate(-766 -224)" fill="#6e6e6e"/>
+      <path id="Path_6" data-name="Path 6" d="M1671.012,644.9V836.823l185.136,97.106V743.145Z" transform="translate(-766 -224)" fill="#f1f1f1"/>
+      <path id="Path_4" data-name="Path 4" d="M1854.427,553.5l-183.415,92.313,183.415,99.2,175.693-99.2Z" transform="translate(-766 -224)" fill="#fff"/>
+    </g>
+    <g id="left_center_cube" data-name="left center cube" transform="translate(-125.012 294.992)">
+      <path id="Path_49" data-name="Path 49" d="M1671.012,644.9v53.192L1722.322,725V672.126Z" transform="translate(-701 -325.064)" fill="url(#linear-gradient)"/>
+      <path id="Path_4-2" data-name="Path 4" d="M1721.845,553.5l-50.833,25.584,50.833,27.493,48.693-27.493Z" transform="translate(-766 -224)" fill="#fff"/>
+      <path id="Path_7-2" data-name="Path 7" d="M1722.379,553.581l-51.367,25.563,50.833,26.975,48.693-26.975Z" transform="translate(-766 -171.398)" fill="#d8d8d8"/>
+      <path id="Path_6-2" data-name="Path 6" d="M1671.012,644.9v53.192L1722.322,725V672.126Z" transform="translate(-766 -290.064)" fill="#f1f1f1"/>
+      <path id="Path_8-2" data-name="Path 8" d="M1904.241,645.526l-48.263,27.1,48.263,25.6Z" transform="translate(-899.703 -290.519)" fill="#6e6e6e"/>
+    </g>
+    <g id="upper_center_cube" data-name="upper center cube" transform="translate(4.988 42.992)">
+      <rect id="shadow" width="251" height="53" transform="translate(955.012 382.008)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_4-3" data-name="Path 4" d="M1721.845,553.5l-50.833,25.584,50.833,27.493,48.693-27.493Z" transform="translate(-766 -224)" fill="#fff"/>
+      <path id="Path_7-3" data-name="Path 7" d="M1722.379,553.581l-51.367,25.563,50.833,26.975,48.693-26.975Z" transform="translate(-766 -171.398)" fill="#d8d8d8"/>
+      <path id="Path_6-3" data-name="Path 6" d="M1671.012,644.9v53.192L1722.322,725V672.126Z" transform="translate(-766 -290.064)" fill="#f1f1f1"/>
+      <path id="Path_8-3" data-name="Path 8" d="M1904.241,645.526l-48.263,27.1,48.263,25.6Z" transform="translate(-899.703 -290.519)" fill="#6e6e6e"/>
+    </g>
+  </g>
+</svg>
