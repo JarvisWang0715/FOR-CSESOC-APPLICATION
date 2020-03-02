@@ -1,0 +1,35 @@
+# to calculate letter frequencies ref: http://wikipedia.org/wiki/Letter_frequency
+import re
+file = input('Enter the file name')
+tmp = dict()
+total = 0
+ans = list()
+
+for line in open(file):
+    line = re.sub(r'[^A-Za-z\s]', '', line)
+    words = line.split()
+    for word in words:
+        letters = list(word.lower())
+        for letter in letters:
+            tmp[letter] = tmp.get(letter, 0) + 1
+
+
+print(sorted((k, v) for k, v in tmp.items()))
+
+
+for (k, v) in tmp.items():
+    total = total + v
+
+# put into a list in order to sort it later
+for (k, v) in tmp.items():
+    ans.append((k, v / total * 100))
+
+ans.sort()
+
+for (k, v) in ans:
+    print(k, 'frequency:', str(v)[:5], '%')
+
+
+for (k, v) in ans:
+    print(str(v)[:5], '%')
+
