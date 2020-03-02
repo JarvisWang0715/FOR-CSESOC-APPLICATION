@@ -31,3 +31,11 @@
   
   These are data structures created by using object orientied programming. Just for practicing data structures.
   
+  4. Others
+  
+  Language: Python
+  
+  Skills applied: Socket, XML, JSON
+  
+  These are just some file that I practice the structure of XML and JSON, also learned to fetch file online.
+  
