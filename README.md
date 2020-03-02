@@ -1,7 +1,7 @@
 # FOR-CSESOC-APPLICATION
 
-<h2> Greeting, Recruiters and Project team.
-  These are some tiny project that I practiced back in the days, which is pretty fundamental, but I think it's better to show some progress instead of leaving a blank there. </h2>
+<h2> Greeting, Recruiters and Project team.</h2>
+  These are some tiny project that I practiced back in the days, which is pretty fundamental, but I think it's better to show some progress instead of leaving a blank there. 
   
   Since these small projects was for practicing, so the lack of the cohesion might present in the code. As a result, I would demonstrate the code here. By the way, my main language is Python, following by C, HTML/CSS and also have some experiences in XML, JSON, SQL.
   
