@@ -15,7 +15,7 @@
   
   This is an idea that I randomly came across, which is checking the letter frequency by integrating the regular expression. The result in excel indicates the result is aligned with the data from Wikipedia.
   
-  2. Web developement
+  2. Web development
   
   Language: HTML/CSS
   
